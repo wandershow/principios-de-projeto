@@ -11,3 +11,7 @@
 
 ## SSOT: Single Source of Truth
 
+## Prefira a Composição de Objeto à Herança de Classe
+
+
+

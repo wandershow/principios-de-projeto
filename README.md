@@ -10,4 +10,3 @@
 ## DRY: Don't Repeat Yourself
 
 ## SSOT: Single Source of Truth
-
